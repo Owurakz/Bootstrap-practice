@@ -1,0 +1,31 @@
+.my-nav{
+    background-image: url('https://daks2k3a4ib2z.cloudfront.net/5527a015715879bc5767ece2/5527a395e02754bb57746389_slider1.jpg'); background-size: auto;
+}
+
+.pics{
+    height: 60vh; width: 100%;
+}
+
+.footer{
+    background-color: black; color: aliceblue;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: bold; 
+}
+
+.my-nav a{ 
+    color: white !important;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+a:hover{
+    color: goldenrod !important;
+}
+
+li{ font-family: sans-serif;
+
+}
