@@ -24,3 +24,34 @@ h1,h2,h3,h4,h6{
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
+
+.mybut{
+    background-color:linear-gradient(45deg, rgb(253, 63, 179), rgb(253, 63, 129) 30%, rgb(253, 62, 79) 69%, rgb(253, 62, 79));
+}
+
+a{
+    color: bisque !important;
+}
+
+.card{
+    /* background: rgb(48, 207, 232); */
+    display: flex;
+    flex: 1; 
+     transition: .3s;  
+  
+} 
+
+/* .card-body{
+    height: 100px; width: auto; padding: 6px; box-sizing: border-box; 
+    /* position: absolute; */
+     /* background-color: #C0C0C0; */
+     /* bottom: 500px; */
+/* } */ 
+
+
+ .card:hover{
+
+    cursor: pointer;
+    flex: 3;
+    background: rgb(12, 207, 195); 
+} 

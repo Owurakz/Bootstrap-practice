@@ -48,3 +48,18 @@ h1, h2, h3, h4, h5, h6 {
 a:hover{
     color: goldenrod !important;
 }
+
+
+
+.card{
+    /* background: rgb(48, 207, 232); */
+    flex: 1; transition: .3s; 
+}
+
+.card:hover{
+    flex: 3;
+    background: rgb(12, 207, 195);
+}
+
+
+

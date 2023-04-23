@@ -3,10 +3,12 @@
 }
 
 .my-nav{
-    background-color: #DAF7DC;
+    background-color: #DAF7DC; 
+    position: fixed; 
+     width: 100%; overflow: hidden; top: 0;
 }
 .bans{
-    background-color: #020122; color: white;
+    background-color: #020122; color: white; margin-top: 80px;
 }
 
 .engaging{
@@ -34,7 +36,7 @@ a{
 }
 
 .my-nav a{
-    color: #020122;
+    color: #020122; display: block; text-decoration: none;
 }
 
 .smallhead{ color: yellow;
@@ -60,3 +62,5 @@ a{
 .smallhead a{
     color: white;
 }
+
+
