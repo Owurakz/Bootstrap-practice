@@ -1,0 +1,33 @@
+.container {
+    width: ;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #e3dbf6, #a99bf9);
+    padding: 10px;
+}
+
+.card{
+    width: 350px;
+    height: 515px;
+    margin: 100px auto 0;
+    background: white;
+}
+
+.card-inner{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.front{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    background-image: url('https://github.com/Owurakz/First-rep/blob/main/user.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.back{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
